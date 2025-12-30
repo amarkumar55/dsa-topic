@@ -129,3 +129,5 @@
          - Game Theory
          - Reservoir Sampling
          - Rejection Sampling
+         - Matrix
+         - Randomized
