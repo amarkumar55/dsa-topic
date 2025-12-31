@@ -1,4 +1,3 @@
-
 DSA BASIC
 
     - Environment Setup
@@ -11,7 +10,8 @@ DSA BASIC
 DATA STRUCTURE
 
     - Array Data Structure
-
+    - String Data Structure
+ 
     - Skip List Data Structure
     - Linked List Data Structure
     - Doubly Linked List Data Structure
@@ -24,6 +24,8 @@ DATA STRUCTURE
     - Circular Queue Data Structure
     - Priority Queue Data Structure
     - Deque Data Structure
+
+    - Hash Table
     
     - Matrices Data Structure
         - Lup Decomposition In Matrices
@@ -33,6 +35,7 @@ DATA STRUCTURE
         -- Depth First Traversal
         -- Breadth First Traversal
         -- Spanning Tree
+        -- Minimum Spanning Tree
         -- Topological Sorting
         -- Strongly Connected Components
         -- Biconnected Components
@@ -41,10 +44,12 @@ DATA STRUCTURE
         -- Flow Networks In Data Structures
         -- Edmonds Blossom Algorithm
         -- Maxflow Mincut Theorem
+        -- Eulerian Circuit
 
     - Tree Data Structure
 
         -- Tree Traversal
+        -- Binary Tree
         -- Binary Search Tree
         -- AVL Tree
         -- Red Black Trees
@@ -58,6 +63,7 @@ DATA STRUCTURE
         -- Hashed Array Tree
         -- K-Ary Tree
         -- Kd Trees
+        -- Binary Indexed Tree
         -- Priority Search Tree Data Structure
 
     - Hashing
@@ -116,7 +122,7 @@ SORTING ALOGIRTHMS
     - Counting Sort Algorithm
     - Radix Sort Algorithm
     - Quick Sort Algorithm
-
+    - Line Sweep
 
  
 
@@ -158,6 +164,9 @@ ALGORITHMS
         -- 0-1 Knapsack Problem
         -- Longest Common Sub-sequence Algorithm
         -- Travelling Salesman Problem (Dynamic Approach)
+        -- Memoization
+        -- Backtracking
+        -- Bitmask
 
 
     - Approximation Algorithms
@@ -175,139 +184,43 @@ ALGORITHMS
        -- Karger’s Minimum Cut Algorithm
        -- Fisher-Yates Shuffle Algorithm
 
+    - Math & Number Theory
+
+        -- Math
+        -- Number Theory
+        -- Combinatorics
+        -- Probability and Statistics
+        -- Geometry
+
 
     - Other
+        - Bit Manipulation
+        - String Matching
+        - Rolling Hash
+        - Hash Function
+        - Suffix Array
+        - Two Pointers
+        - Sliding Window
+        - Monotonic Stack
+        - Monotonic Queue
+        - Prefix Sum
+        - Union Find
+        - Ordered Set
+        - Data Stream
         - Infix to Postfix
         - Bellmon Ford Shortest Path
         - Maximum Bipartite Matching
-
+        - Design
+        - Iterator
+        - Concurrency
+        - Interactive
+        - Brainteaser
+        - Simulation
+        - Enumeration
+        - Counting
+        - Game Theory
+        - Reservoir Sampling
+        - Rejection Sampling
+        - Matrix
+        - Randomized
         
-
-     ## Data Structures
-     
-     - Array
-     - String
-     - Hash Table
-     - Linked List
-     - Doubly-Linked List
-     - Stack
-     - Queue
-     - Heap (Priority Queue)
-     - Tree
-     - Binary Tree
-     - Binary Search Tree
-     - Graph
-     - Trie
-     - Segment Tree
-     - Binary Indexed Tree
-     - Union Find
-     - Ordered Set
-     - Data Stream
-     
-     ---
-     
-     ## Algorithms – Sorting & Searching
-     
-     - Sorting
-     - Merge Sort
-     - Quickselect
-     - Counting Sort
-     - Bucket Sort
-     - Radix Sort
-     - Shell
-     - Binary Search
-     - Line Sweep
-     
-     ---
-     
-     ## Algorithms – Graph
-     
-     - Breadth-First Search
-     - Depth-First Search
-     - Shortest Path
-     - Topological Sort
-     - Minimum Spanning Tree
-     - Strongly Connected Component
-     - Biconnected Component
-     - Eulerian Circuit
-     
-     ---
-     
-     ## Algorithms – Dynamic Programming & Recursion
-     
-     - Dynamic Programming
-     - Memoization
-     - Recursion
-     - Backtracking
-     - Divide and Conquer
-     - Bitmask
-     
-     ---
-     
-     ## Algorithms – Greedy & Optimization
-     
-     - Greedy
-     - Two Pointers
-     - Sliding Window
-     - Monotonic Stack
-     - Monotonic Queue
-     - Prefix Sum
-     
-     ---
-     
-     ## Algorithms – Strings
-     
-     - String Matching
-     - Rolling Hash
-     - Hash Function
-     - Suffix Array
-     
-     ---
-     
-     ## Algorithms – Math & Number Theory
-     
-     - Math
-     - Number Theory
-     - Combinatorics
-     - Probability and Statistics
-     - Geometry
-     
-     ---
-     
-     ## Bit Manipulation
-     
-     - Bit Manipulation
-     
-     ---
-     
-     ## Database
-     
-     - Database
-     
-     ---
-     
-     ## Design & System Concepts
-     
-     - Design
-     - Iterator
-     - Concurrency
-     - Interactive
-     - Brainteaser
-     
-     ---
-     
-     ## Simulation & Enumeration
-     
-     - Simulation
-     - Enumeration
-     - Counting
-     
-     ---
-     
-     ## Advanced / Special Topics
-     
-     - Game Theory
-     - Reservoir Sampling
-     - Rejection Sampling
-     - Matrix
-     - Randomized
