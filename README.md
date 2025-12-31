@@ -5,6 +5,7 @@ DSA BASIC
     - Asymptotic Analysis
     - Data Structure Basics
     - Data Structures and Types
+    - Logic Building Guide
 
 
 DATA STRUCTURE
@@ -26,7 +27,9 @@ DATA STRUCTURE
     - Deque Data Structure
 
     - Hash Table
-    
+    - Hash Set
+    - Hash Map
+
     - Matrices Data Structure
         - Lup Decomposition In Matrices
         - Lu Decomposition In Matrices
@@ -45,6 +48,8 @@ DATA STRUCTURE
         -- Edmonds Blossom Algorithm
         -- Maxflow Mincut Theorem
         -- Eulerian Circuit
+        -- Graphs Traversal
+        -- Cycle Detection
 
     - Tree Data Structure
 
@@ -65,6 +70,9 @@ DATA STRUCTURE
         -- Kd Trees
         -- Binary Indexed Tree
         -- Priority Search Tree Data Structure
+        -- Pre-order Traversal
+        -- In-order Traversal
+        -- Post-order Traversal
 
     - Hashing
 
@@ -108,6 +116,10 @@ SEARCHING ALOGIRTHMS
     - Fibonacci Search
     - Sublist Search
     - Hash Table
+    - Sentinel Linear Search
+    - Meta Binary Search | One-Sided Binary Search
+    - Ternary Search
+    - Best First Search
 
 
 SORTING ALOGIRTHMS
@@ -123,6 +135,11 @@ SORTING ALOGIRTHMS
     - Radix Sort Algorithm
     - Quick Sort Algorithm
     - Line Sweep
+    - Cycle Sort 
+    - 3-way Merge Sort
+    - Pigeonhole Sort
+    - IntroSort
+    - TimSort
 
  
 
@@ -154,6 +171,16 @@ ALGORITHMS
         -- Fractional Knapsack Problem
         -- Job Sequencing with Deadline
         -- Optimal Merge Pattern Algorithm
+        -- Bellman-Ford 
+        -- Huffman Coding
+        -- Huffman Decoding
+        -- Activity Selection Problem
+        -- Water Connection Problem
+        -- Minimum Swaps for Bracket Balancing
+        -- Egyptian Fraction
+        -- Policemen catch thieves
+        -- Fitting Shelves Problem
+        -- Assign Mice to Holes
 
 
     - Dynamic Programming
@@ -167,6 +194,9 @@ ALGORITHMS
         -- Memoization
         -- Backtracking
         -- Bitmask
+        -- Huffman Coding
+        -- Tabulation
+
 
 
     - Approximation Algorithms
@@ -192,6 +222,17 @@ ALGORITHMS
         -- Probability and Statistics
         -- Geometry
 
+    - Bitwise Algorithms
+
+    - Branch and Bound algorithms
+    
+    - Geometric algorithms
+
+    - Euclidean Algorithm
+    
+    - Square Root (Sqrt) Decomposition Algorithm
+
+    - Binary Lifting
 
     - Other
         - Bit Manipulation
@@ -223,4 +264,6 @@ ALGORITHMS
         - Rejection Sampling
         - Matrix
         - Randomized
-        
+        - Maximum Flow
+        - Ford-Fulkerson
+        - Edmonds-Karp
