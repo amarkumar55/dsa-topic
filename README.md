@@ -1,9 +1,5 @@
-     ## Complete data structure and algorithm topics to master your problem solving skills 
 
-     # DSA Topics – Categorized
-
-
-     DSA Basic
+DSA BASIC
 
     - Environment Setup
     - Algorithms Basics
